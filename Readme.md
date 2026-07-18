@@ -13,8 +13,8 @@ project/
 │
 ├── data/
 │   ├── 20220503_050008_52_2474_3B_AnalyticMS_8b_clip.tif
-20241110_053942_45_24f7_3B_AnalyticMS_SR_8b_clip_Hybrid_mask.tif
-│   ├── 20241110_053942_45_24f7_3B_AnalyticMS_SR_8b_clip.tif│
+|   |── 20241110_053942_45_24f7_3B_AnalyticMS_SR_8b_clip_Hybrid_mask.tif
+│   ├── 20241110_053942_45_24f7_3B_AnalyticMS_SR_8b_clip.tif
 │
 │
 └── README.md
