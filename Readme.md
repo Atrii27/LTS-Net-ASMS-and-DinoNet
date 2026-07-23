@@ -53,11 +53,6 @@ The workflow includes:
   * Precision
   * Recall
   * F1-score
-  * Dice coefficient
-  * IoU
-* Confusion matrix
-* Radar plot
-* Performance comparison plots
 
 ## Training Dataset
 
@@ -127,10 +122,7 @@ Binary Segmentation Mask
   * Precision
   * Recall
   * F1-score
-  * Dice coefficient
-  * IoU
-* Confusion matrix
-* Prediction overlay
+ 
 
 ---
 
